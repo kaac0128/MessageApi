@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LRF2mRqmRcnL1s+Y5d+hTztBurHIPgRbYb+LqzBJ5Q4=",
+  "Source": "MessageApi",
+  "BasePath": "_content/MessageApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

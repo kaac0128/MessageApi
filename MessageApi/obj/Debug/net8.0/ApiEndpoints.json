@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MessageApi.Controllers.MessageController",
+    "Method": "SendMessageUser",
+    "RelativePath": "api/Message",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Entities.MessageEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MessageApi.Controllers.MessageController",
+    "Method": "GetUsersSentMessage",
+    "RelativePath": "api/Message",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
